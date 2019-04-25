@@ -1,1 +1,4 @@
 git config --global credential.helper store
+
+只需要执行这个 命令
+然后在push,第一次输入用户名，密码，以后将不用再次验证。
